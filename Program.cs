@@ -4,9 +4,6 @@
 // 12821 -> да
 // 23432 -> да
 
-
-
-
 void Num(string number)
 {
   if (number[0]==number[4] || number[1]==number[3])
